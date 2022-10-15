@@ -5,9 +5,9 @@ Lanzhou University OSS Community 2022 Autumn recruitment.
 ## Welcome
 
 开源社区2022年秋纳新Linux机试题以及其它题组正式发布，完成时间为发布时刻起至2022年10月31日24:00。
-请各位参与考核的同学在截止时间前，从https://github.com/LZUOSS/oss-examinations2022下载题组，将机试题解题的最终PDF文档以Pull Request的形式提交至Submit文件中。
+请各位参与考核的同学在截止时间前，从https://github.com/LZUOSS/oss-examinations2022 下载题组，将机试题解题的最终PDF文档以Pull Request的形式提交至Submit文件中。你可以在截止时间前修改PR。
 
-PR名格式与文件名格式均为 姓名\_专业\_年级\_题组方向
+PR名格式与文件名格式均为 姓名\_专业\_年级\_题组方向<br\>
 例：张三\_计科\_22\_Linux		李四\_生科\_21\_操作系统\_信安\_硬件
 
 “2022秋Linux机试题”文件内，附加题和普通题一视同仁，各位可依据自身情况择题完成。每道题没有具体分值，我们会根据每位同学展现出的能力来评判结果。
