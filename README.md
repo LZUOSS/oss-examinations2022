@@ -9,7 +9,7 @@ Lanzhou University OSS Community 2022 Autumn recruitment.
 
 *注：超算方向招募题提交形式请参考文内说明，完成时间为发布时刻起至2022年12月4日，提交解答至[邮箱 supercomputing@lzu.edu.cn](mailto:supercomputing@lzu.edu.cn) ，请勿公开提交至本仓库。*
 
-PR名格式与文件名格式均为 姓名\_专业\_年级\_题组方向<br\>
+PR名格式与文件名格式均为 姓名\_专业\_年级\_题组方向<br/>
 例：张三\_计科\_22\_Linux		李四\_生科\_21\_操作系统\_信安\_硬件
 
 “2022秋Linux机试题”文件内，附加题和普通题一视同仁，各位可依据自身情况择题完成。每道题没有具体分值，我们会根据每位同学展现出的能力来评判结果。
